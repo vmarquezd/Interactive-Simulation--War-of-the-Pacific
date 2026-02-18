@@ -8,6 +8,8 @@ This project gamifies the history of the War of the Pacific. You control a naval
 
 It features a custom physics system for boat movement and integrates the OpenAI API to let players "chat" with historical NPCs in real-time.
 
+https://github.com/user-attachments/assets/cad0fc9d-021d-4d0b-a9ab-cd8980ecf6da
+
 ## Key Features
 * **AI Integration:** Chat with historical figures like Miguel Grau and Arturo Prat. The game sends your questions to GPT-3.5 to generate accurate historical answers.
 * **Physics-Based Movement:** Custom vector math handles the boat's rotation, velocity, and momentum.
@@ -35,3 +37,7 @@ It features a custom physics system for boat movement and integrates the OpenAI 
 
 ---
 *This project is archived for portfolio purposes.*
+
+
+
+
